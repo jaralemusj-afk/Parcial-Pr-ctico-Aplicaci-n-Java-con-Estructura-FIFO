@@ -1,4 +1,4 @@
-Nombre: juan camilo jara lemus
+Nombre: Juan camilo jara lemus
 
 Descripcion proyecto: El proyecto se basa en un sistema en Java que gestiona la lista de clientes de un banco utilizando una estructura de cola FIFO (First In, First Out), donde los que llegan primero son atendidos primero.
 El programa funciona por consola y permite agregar clientes, atender al siguiente en la lista, verificar quién está próximo, mostrar toda la cola, conocer cuántos clientes están en espera, limpiar la cola y cerrar el sistema.
