@@ -14,4 +14,5 @@ Uso de FIFO: En el proyecto, FIFO (First In, First Out) se utiliza para manejar 
 Cuando un cliente entra al sistema, se agrega al final de la cola. Luego, cuando el cajero atiende a un cliente, el sistema toma y elimina al que está al inicio de la fila.
 Por ejemplo, si llegan camilo, mariana y daniel en ese orden, primero será atendido camilo, después mariana y finalmente daniel. De esta manera, el sistema respeta el orden de llegada de los clientes, tal como ocurre en una fila real de un banco.
 
-Enlace diagrama de UML
+Diagrama de UML: <img width="1536" height="1024" alt="1271019d-9712-41a6-b34e-c16e3038de3d" src="https://github.com/user-attachments/assets/97d05d3d-dc75-4faf-8367-9aa332e4a881" />
+
