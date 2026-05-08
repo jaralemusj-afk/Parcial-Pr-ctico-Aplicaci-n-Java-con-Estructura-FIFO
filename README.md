@@ -9,6 +9,8 @@ MenuPrincipal: alberga el menú y todas las funciones relacionadas con la cola.
 También incluye manejo de errores para evitar fallos cuando se ingresan datos incorrectos y guarda la información en un archivo para no perder la cola al cerrar el programa.
 
 Captura de pantalla del menu
+<img width="1017" height="662" alt="{2BE055C4-797A-42CA-B033-D66544CAF8A4}" src="https://github.com/user-attachments/assets/2fda42be-ce4f-478f-a2a9-6cc40a8aec7c" />
+
 
 Uso de FIFO: En el proyecto, FIFO (First In, First Out) se utiliza para manejar la fila de clientes del banco. Esto significa que el primer cliente en llegar es el primero en ser atendido.
 Cuando un cliente entra al sistema, se agrega al final de la cola. Luego, cuando el cajero atiende a un cliente, el sistema toma y elimina al que está al inicio de la fila.
